@@ -1,6 +1,14 @@
-# automated-scripts
-## header_footer.sh
-This script will remove all headers and footers from multiple files within the same directory as the script and then add the header and footer to the whole file. It's very useful for staging files that must be combined.
+# Automated Scripts
+This git repo will house all of my automation scripts
 
-## no_footer.sh
-This script will do the same as above, but will not add a footer
+#merge-script
+This script allows you to merge all sorts of files
+## Usage: merge-script [-d arg] [-e arg] [-f arg] [-t arg]
+### [-d] directory
+### [-e] file extension to search
+### [-f] file name for combined text file
+### [-t] type of merging to perform **REQUIRED**
+* 'ho' only preserve one header (if headers exist, otherwise use 'n')
+* 'hf' preserve one header and one footer
+* 'e' remove headers and footers entirely
+* 'n' no headers or footers exist
