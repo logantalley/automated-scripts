@@ -63,6 +63,16 @@ done
 ########################################
 
 
+#### PRESERVE ONE FOOTER  ####
+elif [ "$CONVERSION_TYPE" == "f" ]
+then
+for file in ${list[*]}
+do
+sed '$d' $file >> tmp.txt
+done
+echo "footer" >> tmp.txt
+########################################
+
 #### NO HEADERS OR FOOTERS EXISTS ####
 elif [ "$CONVERSION_TYPE" == "n" ]
 then
