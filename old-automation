@@ -1,0 +1,126 @@
+20 04 19 * * % TENANT_CODE=jdbyrider;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 04 20 * * % TENANT_CODE=ashbro;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 05 20 * * % TENANT_CODE=disint;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 05 20 * * % TENANT_CODE=elwood;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 05 20 * * % TENANT_CODE=goodecook;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 06 20 * * % TENANT_CODE=lippert;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 06 20 * * % TENANT_CODE=ohiotrans;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 06 20 * * % TENANT_CODE=parker;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 07 20 * * % TENANT_CODE=thill;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 07 20 * * % TENANT_CODE=wintor;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 08 20 * * % TENANT_CODE=elficu;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 10 20 * * % TENANT_CODE=indianauniversity;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 01 21 * * % TENANT_CODE=archdiocese;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+30 01 21 * * % TENANT_CODE=remsee;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+10 02 21 * * % TENANT_CODE=centralsupply;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+
+05 05 20 * * % TENANT_CODE=amarilloisd;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+25 05 20 * * % TENANT_CODE=berkeleyeye;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+45 05 20 * * % TENANT_CODE=binkley;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+05 06 20 * * % TENANT_CODE=chg;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+25 06 20 * * % TENANT_CODE=gwsanant;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+45 06 20 * * % TENANT_CODE=highland;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 07 20 * * % TENANT_CODE=irngte;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+25 07 20 * * % TENANT_CODE=itcter;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+45 07 20 * * % TENANT_CODE=wbs;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 08 20 * * % TENANT_CODE=researchnow;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 08 20 * * % TENANT_CODE=styrenics;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 05 18 * * % TENANT_CODE=regenc;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 05 21 * * % TENANT_CODE=twdt;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 05 21 * * % TENANT_CODE=edmg;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+
+20 05 18 * * % TENANT_CODE=cenmol;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 05 18 * * % TENANT_CODE=electr;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 06 18 * * % TENANT_CODE=morgan;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 06 18 * * % TENANT_CODE=smccorp;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+
+
+20 4 12 * * % TENANT_CODE=americ;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 4 12 * * % TENANT_CODE=aspire;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 5 12 * * % TENANT_CODE=autopack;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 4 9 * * % TENANT_CODE=brooksource;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 5 12 * * % TENANT_CODE=citylr;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 5 12 * * % TENANT_CODE=hafele;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 6 12 * * % TENANT_CODE=husqva;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 6 12 * * % TENANT_CODE=indyps;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 4 8 * * % TENANT_CODE=infotech;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 4 8 * * % TENANT_CODE=johnso;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 5 8 * * % TENANT_CODE=karlst;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 5 8 * * % TENANT_CODE=lamarisd;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 5 8 * * % TENANT_CODE=mobile;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 4 9 * * % TENANT_CODE=oshkosh;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 5 9 * * % TENANT_CODE=otodevelopment;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 5 9 * * % TENANT_CODE=schertzisd;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 5 9 * * % TENANT_CODE=schwar;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 6 9 * * % TENANT_CODE=shesem;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 6 9 * * % TENANT_CODE=shreveport;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 6 9 * * % TENANT_CODE=swairc;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 7 9 * * % TENANT_CODE=univca;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 4 9 * * % TENANT_CODE=wacoisd;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 7 9 * * % TENANT_CODE=woodforest;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+
+20 7 23 * * % TENANT_CODE=lee;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+
+20 4 26 * * % TENANT_CODE=semsch;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com 
+20 8 17 * * % TENANT_CODE=bms;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 7 19 * * % TENANT_CODE=cambiu;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 4 26 * * % TENANT_CODE=citcle;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 8 17 * * % TENANT_CODE=houisd;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 9 17 * * % TENANT_CODE=hughcha;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 9 17 * * % TENANT_CODE=socorroisd;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 5 26 * * % TENANT_CODE=withum;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+
+
+20 0 18 * * % TENANT_CODE=arling;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 0 18 * * % TENANT_CODE=bucgrp;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 1 18 * * % TENANT_CODE=cunninghamrestaurant;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 1 18 * * % TENANT_CODE=hulman;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 1 18 * * % TENANT_CODE=karauction;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 2 18 * * % TENANT_CODE=madisoncounty;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 2 18 * * % TENANT_CODE=madprod;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 2 18 * * % TENANT_CODE=monroe;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 3 18 * * % TENANT_CODE=newton;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 3 18 * * % TENANT_CODE=oneida;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 3 18 * * % TENANT_CODE=rayskillman;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 4 18 * * % TENANT_CODE=ruoffmortgage;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 4 18 * * % TENANT_CODE=somcpa;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 4 18 * * % TENANT_CODE=wsteel;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+
+
+00 2 23 * * % TENANT_CODE=mallof;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 2 23 * * % TENANT_CODE=northlandaluminum;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 2 23 * * % TENANT_CODE=omniw;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 3 23 * * % TENANT_CODE=plasticproducts;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 3 23 * * % TENANT_CODE=winthropweinstine;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 8 23 * * % TENANT_CODE=milkspe;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+
+
+00 2 10 * * % TENANT_CODE=bpi;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+10 2 10 * * % TENANT_CODE=bsolver;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 2 8 * * % TENANT_CODE=daktro;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 2 8 * * % TENANT_CODE=hirschbach;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 2 13 * * % TENANT_CODE=plu295;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+30 2 13 * * % TENANT_CODE=plu803;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+31 2 20 * * % TENANT_CODE=cityofnoblesville;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+36 2 17 * * % TENANT_CODE=enrflx;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+
+46 2 11 * * % TENANT_CODE=oshkosh;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+
+
+00 2 16 * * % TENANT_CODE=casella;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+00 2 11 * * % TENANT_CODE=energytransfer;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+10 2 11 * * % TENANT_CODE=newellb;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+25 2 11 * * % TENANT_CODE=paramedicslogidtics;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+
+00 2 24 * * % TENANT_CODE=aldisd;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+10 2 24 * * % TENANT_CODE=aliefisd;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+45 2 20 * * % TENANT_CODE=austin;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 2 24 * * % TENANT_CODE=flourbluffisd;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+30 2 24 * * % TENANT_CODE=katyisd;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 2 24 * * % TENANT_CODE=kingsvilleisd;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 2 26 * * % TENANT_CODE=pasisd;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+25 2 10 * * % TENANT_CODE=boonecounty;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+20 2 15 * * % TENANT_CODE=opendoo;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+40 2 15 * * % TENANT_CODE=petroc;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+45 2 17 * * % TENANT_CODE=harisd;BUILD_USER_ID=system;BUILD_USER_EMAIL=jinsha@systalent.com
+
