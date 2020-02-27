@@ -11,3 +11,4 @@ aws configure
 
 echo 'Downloading macOS bundle'
 aws s3 cp s3://com.bstis.it.resources/macOS/macos.tar.gz macos.tar.gz
+gunzip -c macos.tar.gz | tar xopf -
